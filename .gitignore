@@ -10,7 +10,7 @@ data/splits/*.txt
 *tmp
 *temp
 
-models/*.pt
+models/*.pth
 
 __pycache__/
 *.pyc
